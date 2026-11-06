@@ -1,0 +1,14 @@
+docs/docs/tutorials/04-making-agents-reliable.md
+  h_00d79582c3c048 21,69,71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3fb529dfc87ec521a1aa1f4236feed52e1caa77d",
+  "prompts": {},
+  "humans": {
+    "h_00d79582c3c048": {
+      "author": "Jack Woehr <jwoehr@softwoehr.com>"
+    }
+  }
+}
