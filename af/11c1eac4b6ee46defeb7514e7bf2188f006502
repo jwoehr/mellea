@@ -1,0 +1,24 @@
+docs/docs/tutorials/05-mifying-legacy-code.md
+  h_00d79582c3c048 21
+docs/docs/tutorials/06-streaming-validation.md
+  h_00d79582c3c048 28
+docs/versioned_docs/version-0.8.0/tutorials/05-mifying-legacy-code.md
+  h_00d79582c3c048 21
+docs/versioned_docs/version-0.8.0/tutorials/06-streaming-validation.md
+  h_00d79582c3c048 27
+docs/versioned_docs/version-0.9.0/tutorials/05-mifying-legacy-code.md
+  h_00d79582c3c048 21
+docs/versioned_docs/version-0.9.0/tutorials/06-streaming-validation.md
+  h_00d79582c3c048 27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "af11c1eac4b6ee46defeb7514e7bf2188f006502",
+  "prompts": {},
+  "humans": {
+    "h_00d79582c3c048": {
+      "author": "Jack Woehr <jwoehr@softwoehr.com>"
+    }
+  }
+}
