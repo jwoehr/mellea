@@ -1,0 +1,106 @@
+docs/docs/concepts/context-and-sessions.md
+  h_00d79582c3c048 132
+docs/docs/examples/data-extraction-pipeline.md
+  h_00d79582c3c048 23
+docs/docs/examples/legacy-code-integration.md
+  h_00d79582c3c048 27
+docs/docs/examples/resilient-rag-fallback.md
+  h_00d79582c3c048 26
+docs/docs/examples/traced-generation-loop.md
+  h_00d79582c3c048 26
+docs/docs/how-to/backends-and-configuration.md
+  h_00d79582c3c048 16
+docs/docs/how-to/debug-with-plugins.md
+  h_00d79582c3c048 42-45
+docs/docs/how-to/m-decompose.md
+  h_00d79582c3c048 28,62,89
+docs/docs/how-to/unit-test-generative-code.md
+  h_00d79582c3c048 49,363-364,385
+docs/docs/how-to/use-images-and-vision.md
+  h_00d79582c3c048 13
+docs/docs/integrations/langchain.md
+  h_00d79582c3c048 58
+docs/docs/integrations/ollama.md
+  h_00d79582c3c048 37,50,78,87-88,148,169,217,260
+docs/docs/integrations/smolagents.md
+  h_00d79582c3c048 51
+docs/docs/observability/logging.md
+  h_00d79582c3c048 83-92
+docs/docs/observability/metrics.md
+  h_00d79582c3c048 581
+docs/docs/observability/tracing.md
+  h_00d79582c3c048 269,278,305,307
+docs/examples/m_serve/README.md
+  h_00d79582c3c048 116,296,322,328,339
+docs/examples/m_serve/model-routing/client_model_routing.py
+  h_00d79582c3c048 25
+docs/examples/m_serve/model-routing/m_serve_example_model_routing.py
+  h_00d79582c3c048 7,22-23,57
+docs/examples/m_serve/multimodal-audio/m_serve_example_multimodal_audio_granite.py
+  h_00d79582c3c048 13,33,39,65,117
+docs/examples/m_serve/pii/pii_serve.py
+  h_00d79582c3c048 13
+docs/examples/m_serve/sessions/client_responses_sessions.py
+  h_00d79582c3c048 25
+docs/examples/m_serve/simple/client.py
+  h_00d79582c3c048 20
+docs/examples/m_serve/simple/client_responses.py
+  h_00d79582c3c048 19
+docs/examples/m_serve/streaming/client_responses_streaming.py
+  h_00d79582c3c048 31,38
+docs/examples/m_serve/streaming/client_streaming.py
+  h_00d79582c3c048 31,43
+docs/examples/m_serve/tool-calling/client_responses_tool_calling.py
+  h_00d79582c3c048 113,143,172,198
+docs/examples/m_serve/tool-calling/client_responses_tool_calling_server_side.py
+  h_00d79582c3c048 107,135,153
+docs/examples/sofai/README.md
+  h_00d79582c3c048 12
+docs/examples/sofai/sofai_graph_coloring.py
+  h_00d79582c3c048 9,21,152,205
+docs/versioned_docs/version-0.9.0/api/mellea/plugins/hooks/session.mdx
+  h_00d79582c3c048 40
+docs/versioned_docs/version-0.9.0/concepts/context-and-sessions.md
+  h_00d79582c3c048 132
+docs/versioned_docs/version-0.9.0/examples/data-extraction-pipeline.md
+  h_00d79582c3c048 23
+docs/versioned_docs/version-0.9.0/examples/legacy-code-integration.md
+  h_00d79582c3c048 27
+docs/versioned_docs/version-0.9.0/examples/resilient-rag-fallback.md
+  h_00d79582c3c048 26
+docs/versioned_docs/version-0.9.0/examples/traced-generation-loop.md
+  h_00d79582c3c048 26
+docs/versioned_docs/version-0.9.0/how-to/backends-and-configuration.md
+  h_00d79582c3c048 16
+docs/versioned_docs/version-0.9.0/how-to/debug-with-plugins.md
+  h_00d79582c3c048 42-45
+docs/versioned_docs/version-0.9.0/how-to/m-decompose.md
+  h_00d79582c3c048 28,62,89
+docs/versioned_docs/version-0.9.0/how-to/unit-test-generative-code.md
+  h_00d79582c3c048 49,363-364,385
+docs/versioned_docs/version-0.9.0/how-to/use-images-and-vision.md
+  h_00d79582c3c048 13
+docs/versioned_docs/version-0.9.0/integrations/langchain.md
+  h_00d79582c3c048 58
+docs/versioned_docs/version-0.9.0/integrations/ollama.md
+  h_00d79582c3c048 37,50,78,87-88,148,169,217,260
+docs/versioned_docs/version-0.9.0/integrations/smolagents.md
+  h_00d79582c3c048 51
+docs/versioned_docs/version-0.9.0/observability/logging.md
+  h_00d79582c3c048 83-92
+docs/versioned_docs/version-0.9.0/observability/metrics.md
+  h_00d79582c3c048 574
+docs/versioned_docs/version-0.9.0/observability/tracing.md
+  h_00d79582c3c048 265,274,301,303
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "64a767ef34437d44635530cf764488b604176564",
+  "prompts": {},
+  "humans": {
+    "h_00d79582c3c048": {
+      "author": "Jack Woehr <jwoehr@softwoehr.com>"
+    }
+  }
+}
