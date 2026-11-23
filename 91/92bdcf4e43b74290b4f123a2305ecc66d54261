@@ -1,0 +1,30 @@
+docs/docs/getting-started/quickstart.md
+  h_00d79582c3c048 64
+docs/docs/how-to/handling-exceptions.md
+  h_00d79582c3c048 265
+docs/docs/observability/logging.md
+  h_00d79582c3c048 73-74,83,87-93
+docs/examples/m_serve/model-routing/m_serve_example_model_routing.py
+  h_00d79582c3c048 36,40,43-44
+docs/examples/m_serve/pii/pii_serve.py
+  h_00d79582c3c048 22,96
+docs/versioned_docs/version-0.9.0/getting-started/quickstart.md
+  h_00d79582c3c048 64
+docs/versioned_docs/version-0.9.0/how-to/handling-exceptions.md
+  h_00d79582c3c048 265
+docs/versioned_docs/version-0.9.0/observability/logging.md
+  h_00d79582c3c048 73-74,83,87-93
+mellea/plugins/hooks/session.py
+  h_00d79582c3c048 38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9192bdcf4e43b74290b4f123a2305ecc66d54261",
+  "prompts": {},
+  "humans": {
+    "h_00d79582c3c048": {
+      "author": "Jack Woehr <jwoehr@softwoehr.com>"
+    }
+  }
+}
